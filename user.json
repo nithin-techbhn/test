@@ -1,4 +1,8 @@
-{"name": "Nithin", "email": "nithin@example.com", "age": 26}
+[
+  {
+    "name": "Nithin",
+    "email": "nithin@example.com",
+    "age": 26}
 {
   "name": "Balaji",
   "email": "nithin@example.com",
@@ -9,3 +13,4 @@
   "email": "nithin@example.com",
   "age": 26
 }
+]
