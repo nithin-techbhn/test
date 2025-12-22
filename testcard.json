@@ -1,5 +1,10 @@
 [
-  { "username": "naveen" },
-  { "username": "nithin" },
-  { "username": "jeeva" }
+  {
+    "username": "octocat",
+    "imageUrl": "https://avatars.githubusercontent.com/u/583231"
+  },
+  {
+    "username": "torvalds",
+    "imageUrl": "https://avatars.githubusercontent.com/u/1024025"
+  }
 ]
