@@ -1,10 +1,72 @@
 [
   {
-    "username": "octocat",
-    "imageUrl": "https://avatars.githubusercontent.com/u/583231"
+    "title": "Corporate Event",
+    "company": "Google",
+    "location": "Chennai, India",
+    "status": "Actively Seeking Participants",
+    "imageUrl": "https://avatars.githubusercontent.com/u/1342004"
   },
   {
-    "username": "torvalds",
-    "imageUrl": "https://avatars.githubusercontent.com/u/1024025"
+    "title": "Tech Meetup",
+    "company": "Microsoft",
+    "location": "Bengaluru, India",
+    "status": "Registrations Open",
+    "imageUrl": "https://avatars.githubusercontent.com/u/6154722"
+  },
+  {
+    "title": "Startup Networking",
+    "company": "Amazon",
+    "location": "Hyderabad, India",
+    "status": "Limited Seats Available",
+    "imageUrl": "https://avatars.githubusercontent.com/u/698437"
+  },
+  {
+    "title": "AI Conference",
+    "company": "OpenAI",
+    "location": "San Francisco, USA",
+    "status": "Call for Speakers",
+    "imageUrl": "https://avatars.githubusercontent.com/u/14957082"
+  },
+  {
+    "title": "Developer Summit",
+    "company": "Meta",
+    "location": "Menlo Park, USA",
+    "status": "Early Bird Tickets",
+    "imageUrl": "https://avatars.githubusercontent.com/u/69631"
+  },
+  {
+    "title": "Cloud Expo",
+    "company": "Oracle",
+    "location": "Austin, USA",
+    "status": "Exhibitors Welcome",
+    "imageUrl": "https://avatars.githubusercontent.com/u/4430336"
+  },
+  {
+    "title": "Mobile Dev Conference",
+    "company": "Apple",
+    "location": "Cupertino, USA",
+    "status": "Invite Only",
+    "imageUrl": "https://avatars.githubusercontent.com/u/10639145"
+  },
+  {
+    "title": "Cyber Security Forum",
+    "company": "IBM",
+    "location": "Pune, India",
+    "status": "Registration Closing Soon",
+    "imageUrl": "https://avatars.githubusercontent.com/u/1459110"
+  },
+  {
+    "title": "FinTech Meetup",
+    "company": "Stripe",
+    "location": "Dublin, Ireland",
+    "status": "Open for Networking",
+    "imageUrl": "https://avatars.githubusercontent.com/u/856813"
+  },
+  {
+    "title": "Design Thinking Workshop",
+    "company": "Adobe",
+    "location": "Noida, India",
+    "status": "Workshop Ongoing",
+    "imageUrl": "https://avatars.githubusercontent.com/u/476009"
   }
 ]
